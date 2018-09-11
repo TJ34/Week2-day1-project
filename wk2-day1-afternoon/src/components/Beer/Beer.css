@@ -1,0 +1,23 @@
+.Beer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+.inputBox {
+    margin: 20px;
+}
+
+.BeerMap {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+.button {
+    margin-left: 5px;
+}
